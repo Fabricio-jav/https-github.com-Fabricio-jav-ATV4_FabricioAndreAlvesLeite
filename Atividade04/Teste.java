@@ -53,7 +53,7 @@ public class Teste {
 		System.out.println("Salario do mes - R$ " + vendedor1.getSalario());
 		System.out.println("Comisao das Vendas - R$ " + vendedor1.getComisao());
 		
-		
+		System.out.println("-------FIM-------");
 		
 	}
 
